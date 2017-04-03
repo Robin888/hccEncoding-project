@@ -1,1 +1,0 @@
-# hccEncoding-project
