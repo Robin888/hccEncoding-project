@@ -32,7 +32,7 @@ Functions
 * LOOEncodingKfold(train,test,target,feature,noise=0.01,drop_origin_feature=False,fold=5)
 
 **Please see example for detailed explanation**
-- `Example <https://github.com/MacHu-GWU/elementary_math-project>`_
+- `Example <https://github.com/Robin888/hccEncoding-project/blob/master/example/Example.ipynb>`_
 
 
 General Parameters
