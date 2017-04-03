@@ -15,12 +15,12 @@ This is just a example project for demonstration purpose.
 **Quick Links**
 -------------------------------------------------------------------------------
 - `GitHub Homepage <https://github.com/Robin888/hccEncoding-project>`_
-- `Online Documentation <http://pythonhosted.org/hccEncoding>`_
+- `Online Documentation <http://hccencoding-project.readthedocs.io/en/latest/>`_
 - `PyPI download <https://pypi.python.org/pypi/hccEncoding>`_
 - `Install <install_>`_
 - `Issue submit and feature request <https://github.com/Robin888/hccEncoding-project/issues>`_
 - `API reference and source code <http://pythonhosted.org/hccEncoding/py-modindex.html>`_
-
+- `Tutorial <https://github.com/Robin888/hccEncoding-project/blob/master/example/Example.ipynb>`_
 
 .. _install:
 
