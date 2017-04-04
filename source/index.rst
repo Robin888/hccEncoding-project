@@ -53,7 +53,7 @@ General Parameters
   - a manually added noise after encoding. For classification problems, a random uniform-distributed noise in the range of [-noise,noise]*data is added. For regression problem, a random normal-distributed noise in the range of norm(0,noise) is added, datatype: double
 * drop_origin_feature [default=False]
   - whether dropping the original feature or not, datatype: boolean
-* kfold [default=5]
+* fold [default=5]
   - parameter for LOOEncodingKfold and BayesEncodingKfold, represent the number of folds that the train dataset will be splitted into. datatype: int
 
 
